@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista4\exfluxogramadaengenharia\obj\Debug\net9.0\exfluxogramadaengenharia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista4\exfluxogramadaengenharia\obj\Debug\net9.0\exfluxogramadaengenharia.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista4\exfluxogramadaengenharia\obj\Debug\net9.0\exfluxogramadaengenharia.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista4\exfluxogramadaengenharia\obj\Debug\net9.0\exfluxogramadaengenharia.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista4\exfluxogramadaengenharia\obj\Debug\net9.0\exfluxogramadaengenharia.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista4\exfluxogramadaengenharia\bin\Debug\net9.0\exfluxogramadaengenharia.exe
+C:\Users\thiag\Github\ListasLp1\Lista4\exfluxogramadaengenharia\bin\Debug\net9.0\exfluxogramadaengenharia.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista4\exfluxogramadaengenharia\bin\Debug\net9.0\exfluxogramadaengenharia.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista4\exfluxogramadaengenharia\bin\Debug\net9.0\exfluxogramadaengenharia.dll
+C:\Users\thiag\Github\ListasLp1\Lista4\exfluxogramadaengenharia\bin\Debug\net9.0\exfluxogramadaengenharia.pdb
+C:\Users\thiag\Github\ListasLp1\Lista4\exfluxogramadaengenharia\obj\Debug\net9.0\exfluxogramadaengenharia.dll
+C:\Users\thiag\Github\ListasLp1\Lista4\exfluxogramadaengenharia\obj\Debug\net9.0\refint\exfluxogramadaengenharia.dll
+C:\Users\thiag\Github\ListasLp1\Lista4\exfluxogramadaengenharia\obj\Debug\net9.0\exfluxogramadaengenharia.pdb
+C:\Users\thiag\Github\ListasLp1\Lista4\exfluxogramadaengenharia\obj\Debug\net9.0\exfluxogramadaengenharia.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista4\exfluxogramadaengenharia\obj\Debug\net9.0\ref\exfluxogramadaengenharia.dll
